@@ -17,11 +17,11 @@ Tox Controller Notes -
   - Shot and Take information is sent via external sources and cannot be manually entered
   
  Record -
-    - Set a file name in the file prefix box.
-    - Press SET to begin the process. This stops the Timeline and prepares the nodes for recording.
-    - When all is ready, press ACTION to begin the recording. The RECORD MODE button will flash.
-    - The indicator frame at the bottom will show the incoming data in Trail form
-    - Press CUT when finished. This saves the incoming data to  [filePrefix+Shot#+Take#.bclip] with a confirmation box.
+  - Set a file name in the file prefix box.
+  - Press SET to begin the process. This stops the Timeline and prepares the nodes for recording.
+  - When all is ready, press ACTION to begin the recording. The RECORD MODE button will flash.
+  - The indicator frame at the bottom will show the incoming data in Trail form
+  - Press CUT when finished. This saves the incoming data to  [filePrefix+Shot#+Take#.bclip] with a confirmation box.
     
 Playback - 
   - Choose a file to playback via the BCLIP box. You may need to navigate to the correct folder but it should retain that information after the first file load.
